@@ -17,5 +17,7 @@ uild a model to recognize the Herpestes urva \
 可將整個資料夾內影像讀入，產生五倍的訓練資料後存回資料夾 \
 並依照原始檔案名稱後加註編號重新命名 
 
+https://youtu.be/sJUsowjkM7g
+
 
 
