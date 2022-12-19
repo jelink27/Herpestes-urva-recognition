@@ -1,8 +1,8 @@
-# Herpestes-urva-recognition \
+# Herpestes-urva-recognition 
 after watching 木曜四超玩-一日蟹農 \
 影片中提到大閘蟹養殖戶常常半夜被食蟹獴襲擊\
 導致嚴重損失，發想若能用攝影機結合影像辨識發出警告\
-能讓養殖戶第一時間發現食蟹蒙入侵並即時做出反應\
+能讓養殖戶第一時間發現食蟹蒙入侵並即時做出反應
 
 '''
 uild a model to recognize the Herpestes urva \
