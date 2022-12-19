@@ -5,7 +5,7 @@ after watching 木曜四超玩-一日蟹農 \
 能讓養殖戶第一時間發現食蟹蒙入侵並即時做出反應
 
 '''
-uild a model to recognize the Herpestes urva \
+build a model to recognize the Herpestes urva \
 在colab使用volov5訓練模型(x) \
 初始模型使用28張照片，使用Lebalimg做Labeling \
 使用Youtube影片做測試https://www.youtube.com/watch?v=qLKBstiddPc
